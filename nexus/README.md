@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+﻿# PID · Nexus - Entrega Oficial Hackathon E+
 
-## Getting Started
+Bem-vindo ao repositório oficial da solução **PID · Nexus**, desenvolvida para o Hackathon E+. Esta plataforma visa centralizar inteligência territorial e dados estratégicos para a transição energética no Brasil.
 
-First, run the development server:
+## Estrutura do Repositório
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Conforme as diretrizes da entrega, o repositório está organizado nas seguintes pastas:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **[1-Codigo-Fonte](./1-Codigo-Fonte):** Contém todo o código-fonte da aplicação (Next.js/TypeScript).
+2. **[2-Design](./2-Design):** Identidade visual, logos, fluxograma de navegação e wireframe da solução.
+3. **[3-Documentacao](./3-Documentacao):** Documento detalhando a viabilidade, diferenciais e impactos da proposta.
+4. **[4-Detalhes-Tecnicos](./4-Detalhes-Tecnicos):** Especificações técnicas, manual de uso e tecnologias utilizadas.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Links Rápidos
+- **Plataforma em Produção (Live):** [https://nexus-alpha-liard-60.vercel.app](https://nexus-alpha-liard-60.vercel.app)
+- **Apresentação:** Disponível na pasta de Design/Prototipo-Final.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Desenvolvido com excelência técnica para a **PID - Plataforma Interativa de Descarbonização**.
